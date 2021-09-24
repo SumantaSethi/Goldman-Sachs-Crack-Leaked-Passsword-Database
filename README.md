@@ -68,7 +68,15 @@ B.Tech Computer Science & Engineering
 
 
 
+
+
+
+
+
+
 Observations:
+
+
 
 Security Algorithms used: 
 
@@ -91,6 +99,8 @@ spuffyffet:1f5c5683982d7c3814d4d9e6d749b21e - MD5
 moodie:8d763385e0476ae208f21bc63956f748 - MD5
 nabox:defebde7b6ab6f24d5824682a16c3ae4 - MD5
 bandalls:bdda5f03128bcbdfa78d8934529048cf - MD5
+
+
 
 Cracked Passwords:
 

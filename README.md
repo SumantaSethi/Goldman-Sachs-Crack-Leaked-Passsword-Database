@@ -5,11 +5,11 @@ Password Controls and Security Policies
 
 Overview
 
-
 As a governance analyst it is part of your duties to assess the level of protection offered by implemented controls and minimize the probability of a successful breach. You often need to know the techniques used by hackers to circumvent implemented controls and propose uplifts to increase the overall level of security in an organization. Gaining valid credentials gives the attackers access to the organization’s IT system, thus circumventing most of perimeter controls in place.
 
 
 Project Objective
+
 What type of hashing algorithm was used to protect passwords?
 
 What level of protection does the mechanism offer for passwords?
@@ -67,6 +67,7 @@ B.Tech Computer Science & Engineering
 Observations:
 
 Security Algorithms used: 
+
 experthead:e10adc3949ba59abbe56e057f20f883e – MD5
 interestec:25f9e794323b453885f5181f1b624d0b – MD5
 ortspoon:d8578edf8458ce06fbc5bb76a58c5ca4 –MD5
@@ -88,6 +89,7 @@ nabox:defebde7b6ab6f24d5824682a16c3ae4 - MD5
 bandalls:bdda5f03128bcbdfa78d8934529048cf - MD5
 
 Cracked Passwords:
+
 experthead:e10adc3949ba59abbe56e057f20f883e - 123456
 interestec:25f9e794323b453885f5181f1b624d0b - 123456789
 ortspoon:d8578edf8458ce06fbc5bb76a58c5ca4 - qwerty

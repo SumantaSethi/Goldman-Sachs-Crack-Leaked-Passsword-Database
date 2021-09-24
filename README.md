@@ -39,6 +39,9 @@ As a result of the analysis the following uplifts are proposed to increase the o
 Project Report and Observations
 Completing this task assigned by Goldman Sachs, MD5 and SHA were the two algorithms that I came across. Analysing the passwords and their respective security algorithms used, I narrowed down my observations into this report.
 
+
+
+
 Project Report
 
 Dear Sir/Ma’am,
@@ -57,6 +60,8 @@ Train your users to follow these policies to keep their passwords safe.
 Thanking you,
 Name: Sumanta Sethi
 B.Tech Computer Science & Engineering
+
+
 
 
 Observations:
@@ -96,6 +101,8 @@ edi_tesla89:6c569aabbf7775ef8fc570e228c16b98 - password!
 liveltekah:3f230640b78d7e71ac5514e57935eb69 - qazxsw
 blikimore:917eb5e9d6d6bca820922a0c6f7cc28b - Pa$$word1
 johnwick007:f6a0cb102c62879d397b12b62c092c06 - bluered
+
+
 
 
 

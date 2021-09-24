@@ -60,7 +60,9 @@ Don’t let users include their username, actual name, date of birth and other p
 Train your users to follow these policies to keep their passwords safe.
 
 Thanking you,
+
 Name: Sumanta Sethi
+
 B.Tech Computer Science & Engineering
 
 

@@ -15,3 +15,5 @@ What level of protection does the mechanism offer for passwords?
 What controls could be implemented to make cracking much harder for the hacker in the event of a password database leaking again?
 
 Here is a sample data file containing hashes dumped together:
+
+Password_Dump.txt
